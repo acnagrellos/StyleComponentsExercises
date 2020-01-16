@@ -19,3 +19,9 @@ Pasalos como prop al footer. El Footer también deberá recibir una prop que sea
 5. Haz que el componente Main sea una arrow function de una línea que devuelva un div que ponga "Este es el Main de la aplicacion".
 
 # Ejercicios Emotion
+
+1. Instalar emotion. (ver diferentes paquetes)
+2. Primer componente con Emotion. (header, main y footer)
+3. Componente de terceros con la funcion de css.
+4. Configuracion global de emotion (emotion-reset y contexto global)
+5. Crear tema con el contexto del tema.
